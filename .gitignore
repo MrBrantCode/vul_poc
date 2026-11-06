@@ -1,0 +1,8 @@
+.env
+*.cookie
+*.session
+*.log
+__pycache__/
+node_modules/
+*.zip
+.DS_Store
